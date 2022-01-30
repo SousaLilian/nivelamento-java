@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\slili\Desktop\Lilian - Projetos JAVA Geral\curso-neliolves\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+370538370.index
+4145731428.index

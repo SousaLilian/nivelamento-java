@@ -1,0 +1,24 @@
+package estruturaRepetitivaFor;
+
+import java.util.Scanner;
+
+public class Exer006 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Digite número inteiro:");
+		int n = sc.nextInt();
+		
+		for (int i=1; i<=n; i++) {
+			if (n % i == 0) {
+				System.out.println(i);
+				System.out.println();
+				System.out.println("Esse numero é dividido por:");
+			}
+		}
+		
+		sc.close();
+	}
+}
